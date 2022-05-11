@@ -1,7 +1,7 @@
 ### Hi there! Sou a Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
 
 - 🔭 Atualmente estou participando de um bootcamp na empresa RedFox;
-- 🌱 Estou em uma trilha de aprendizado para QA;
+- 🌱 Alocada trilha de aprendizado para QA;
 - 👩‍💻 Cada dia mais apaixonada por Agilidade & QA;
 - 🧑‍🎓 Formada em Logística, cursando Big Data;
 - 😄 Pronouns: Ela/Dela.
