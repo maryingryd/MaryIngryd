@@ -1,4 +1,4 @@
-### Olá! Sou a Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
+### Olá! Sou Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
 
 - 💼 Atuando como Estagiária no cargo de Analista de Testes/QA;
 - 👩‍💻 Cada dia mais apaixonada por Agilidade & QA;
