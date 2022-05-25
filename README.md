@@ -1,9 +1,10 @@
-### Hi there! Sou a Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
+### Olá! Sou a Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
 
-- 🔭 Atualmente estou participando de um bootcamp na empresa RedFox;
-- 🌱 Alocada na trilha de aprendizado para QA;
+- 💼 Atuando como Estagiária no cargo de Analista de Testes/QA;
 - 👩‍💻 Cada dia mais apaixonada por Agilidade & QA;
+- 💻 Iniciando Automação de Testes;
 - 🧑‍🎓 Formada em Logística, cursando Big Data;
+- 📖 Cursando Inglês pela WiseUp;
 - 😄 Pronouns: Ela/Dela.
 
 <div align="center">
