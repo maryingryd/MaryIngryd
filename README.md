@@ -3,7 +3,8 @@
 - 💼 Atuando como Estagiária no cargo de Analista de Testes/QA;
 - 👩‍💻 Cada dia mais apaixonada por Agilidade & QA;
 - 💻 Iniciando Automação de Testes;
-- 🎓 Formada em Logística, cursando Big Data;
+- ❤️ Estudando Salesforce;
+- 🎓 Formada em Logística | Big Data e Inteligência Analítica;
 - 📖 Cursando Inglês pela WiseUp;
 - 😄 Pronouns: Ela/Dela.
 
