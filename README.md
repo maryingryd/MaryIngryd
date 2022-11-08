@@ -1,11 +1,11 @@
 ### Olá! Sou Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
 
-- 💼 Atuando como Estagiária no cargo de Analista de Testes/QA;
+- 💼 Atuando como Analista de Soluções Digitais na Capgemini;
 - 👩‍💻 Cada dia mais apaixonada por Agilidade & QA;
 - 💻 Iniciando Automação de Testes;
-- ❤️ Estudando Salesforce;
+- ❤️ Estudando Java, Selenium e Appium;
 - 🎓 Formada em Logística | Big Data e Inteligência Analítica;
-- 📖 Cursando Inglês pela WiseUp;
+- 📖 Cursando Inglês através de Aulas particulares;
 - 😄 Pronouns: Ela/Dela.
 
 <div align="center">
