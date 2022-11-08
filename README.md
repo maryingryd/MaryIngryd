@@ -9,11 +9,6 @@
 - 😄 Pronouns: Ela/Dela.
 
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ingryd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ingryd-Cy" height="30" width="60" src="https://miro.medium.com/max/600/1*liFVAWAgD-TrAQjbxsVBcA.png">
-</div>
 
   
   ##
