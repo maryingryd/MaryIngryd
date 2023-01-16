@@ -3,7 +3,6 @@
 - 💼 Atuando como Analista de Soluções Digitais na Capgemini;
 - 👩‍💻 Cada dia mais apaixonada por Agilidade & QA;
 - 💻 Iniciando Automação de Testes;
-- ❤️ Estudando Java, Selenium e Appium;
 - 🎓 Formada em Logística | Big Data e Inteligência Analítica;
 - 📖 Cursando Inglês através de Aulas particulares;
 - 😄 Pronouns: Ela/Dela.
