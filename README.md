@@ -1,11 +1,11 @@
 ### Olá! Sou Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
 
-- 💼 Atuando como Analista de Soluções Digitais na Capgemini;
-- 👩‍💻 Cada dia mais apaixonada por Agilidade & QA;
-- 💻 Iniciando Automação de Testes;
+- 💼 Atuando como QA e Analista de Testes de Software;
+- 💻 Conhecimento em Automação de Testes com Cypress (JavaScript) e Atualmente Estudando Java para automações com Selenium;
 - 🎓 Formada em Logística | Big Data e Inteligência Analítica;
 - 📖 Cursando Inglês através de Aulas particulares;
 - 😄 Pronouns: Ela/Dela.
+
 
 
 
