@@ -1,6 +1,6 @@
 ### Olá! Sou Ingryd Mary, seja bem-vindo (a) ao meu espaço 😎   
 
-- 💼 Atuando como QA e Analista de Testes de Software;
+- 💼 Atuando como QA e Analista de Testes de Software no Banrisul;
 - 💻 Conhecimento em Automação de Testes com Cypress (JavaScript) e Atualmente Estudando Java para automações com Selenium;
 - 🎓 Formada em Logística | Big Data e Inteligência Analítica;
 - 📖 Cursando Inglês através de Aulas particulares;
